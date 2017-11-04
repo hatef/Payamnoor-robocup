@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hadaf.ExploreCommander" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAQAAAAACQAAQAAAAAEAAIAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Commands\ExploreCommander.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.FireCommander" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Commands\FireCommander.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.MessageCommander" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgBAA=</HashCode>
+      <FileName>Classes\Commands\MessageCommander.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Map" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Classes\Other\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Objects" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Classes\Other\Objects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Status" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAgAA=</HashCode>
+      <FileName>Classes\Other\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.OppRobots" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\Players\OppRobots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.OwnRobots" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\Players\OwnRobots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Position" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAACAAAAAAAAAAAAAAAAAAAAAABgAQAAYAk=</HashCode>
+      <FileName>Classes\Players\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.iTheta" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAYAE=</HashCode>
+      <FileName>Classes\Players\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Server" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhCAAAAQAABAAAgCYAAAAAAAAAAAAEQIQAAAAA=</HashCode>
+      <FileName>Classes\Server\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Config" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAoAAAEIAQABCAEACAoAAAgAAAAAAAA=</HashCode>
+      <FileName>Classes\Tools\Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Logging" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tools\Logging.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Mathematics" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAQAAAEAQAACAAABAAAAAAEAAAQA=</HashCode>
+      <FileName>Classes\Tools\Mathematics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Parser" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAEAAIABAAAwAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tools\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Timing" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tools\Timing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Consts" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Game" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Decision" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAgAAAQAIAAAA=</HashCode>
+      <FileName>InAction\Decision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Explore" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgIAAUAAAAgE=</HashCode>
+      <FileName>InAction\Explore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Initialize" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Initialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hadaf.Program" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Hadaf.Command" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAAAACAAAAAAACAAAAAAgEAEAAIAAAAAAAAAI=</HashCode>
+      <FileName>Constants\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Hadaf.Commander" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

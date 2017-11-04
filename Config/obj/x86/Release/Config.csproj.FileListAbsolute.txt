@@ -1,0 +1,11 @@
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Release\Config.exe.manifest
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Release\Config.application
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Release\Config.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Release\Config.pdb
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.Form1.resources
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.Properties.Resources.resources
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.csproj.GenerateResource.Cache
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.exe.manifest
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.application
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Release\Config.pdb

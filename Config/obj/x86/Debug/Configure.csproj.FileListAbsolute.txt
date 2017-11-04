@@ -1,0 +1,9 @@
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Debug\Configure.exe.config
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Debug\Configure.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\bin\Debug\Configure.pdb
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.Form1.resources
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.Properties.Resources.resources
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.csproj.GenerateResource.Cache
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.pdb
+C:\Users\Hatef\Documents\Visual Studio 2010\Projects\WarSimulation\Config\obj\x86\Debug\Configure.csprojResolveAssemblyReference.cache

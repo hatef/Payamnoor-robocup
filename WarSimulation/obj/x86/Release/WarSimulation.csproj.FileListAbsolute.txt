@@ -1,0 +1,5 @@
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Release\WarSimulation.exe.config
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Release\WarSimulation.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Release\WarSimulation.pdb
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Release\WarSimulation.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Release\WarSimulation.pdb

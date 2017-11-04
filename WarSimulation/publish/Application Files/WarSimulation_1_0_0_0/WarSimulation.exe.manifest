@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WarSimulation.exe" version="1.0.0.0" publicKeyToken="dc522cb2c7a7e8c1" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WarSimulation" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="WarSimulation.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Config.exe" size="14848">
+      <assemblyIdentity name="Config" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>+sT5+9d2B9EWoQR8M7mex5kaDZ4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WarSimulation.exe" size="17920">
+      <assemblyIdentity name="WarSimulation" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>F7WqzZHj38AHyQ3JTH7DUc1C+GU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Config.xml" size="81" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O8+KP7F+QBeHRg915IWzrd5/FmQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="License.txt" size="42">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PA/pBpOOv4cYmBd3JrUrkx3ld0s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WarSimulation.exe.config" size="3093">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yazKWcuO28rR6DtymGFGgYmMkaQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MARLIC\Hatef" issuerKeyHash="d44b5183c68a1116eb5c071984b4fb78cad23b4a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cte1xrJ0ZY8OImqKIGADjvKoeTI=</DigestValue></Reference></SignedInfo><SignatureValue>fJoiqY2YsCjYR/bFyD164NXyri2W2fIBLbfm+ifnIr69ySUzIXLbXeHyV/WybxtKJdmAaVW6OeuI6CbPjhCnjH//Fj+xoYcuRxPN1JS0q47ExyTp6FvQl0iLt2UDctCRHYqfiMLD9BLDO/TAS0Rymvq/lLbDaOYpNaqgJlGZFFs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yR6Xt0FIHQj54LdMP+2Kb07JDY3SC7yEmA6Z2FZ2j15z2hxImfRtlW10m9kijLP5+s+4tbT/YMyuZ0griF765KdWdqwUc/8TgofQiUAYo2VS7HRvq6ud0F0pSKZSrcDIOYhcR4T+wwELd1n+qZWPNcvq9Yrfk6LhdO7vXTmb+s8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3279a8f28e0360208a6a220e8f6574b2c6b5d772" Description="" Url=""><as:assemblyIdentity name="WarSimulation.exe" version="1.0.0.0" publicKeyToken="dc522cb2c7a7e8c1" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MARLIC\Hatef</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3uOiwREe/K7fEy1eMdOkAO/w7Q0=</DigestValue></Reference></SignedInfo><SignatureValue>uuxHcug6W6rkeA5U707Iz+KzK7xQdg152kVDdZNHhF9G2pVtxIUp8Z9Qe0IiT8nN8LSssnF1lHVOvM5sT1Jq/SFfjgnppqZmwlq1L/knNJ5VJQvhjHnoEb34x4UP0KLOWhidkZAdKRDHQIbLgUhOqOAK6P5DimOgkpBw2i4tY48=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yR6Xt0FIHQj54LdMP+2Kb07JDY3SC7yEmA6Z2FZ2j15z2hxImfRtlW10m9kijLP5+s+4tbT/YMyuZ0griF765KdWdqwUc/8TgofQiUAYo2VS7HRvq6ud0F0pSKZSrcDIOYhcR4T+wwELd1n+qZWPNcvq9Yrfk6LhdO7vXTmb+s8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQNsYz7rMUpqlKIAOCgepfEzANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgATQBBAFIATABJAEMAXABIAGEAdABlAGYwHhcNMTMwMjI2MDc0NTE2WhcNMTQwMjI2MTM0NTE2WjAjMSEwHwYDVQQDHhgATQBBAFIATABJAEMAXABIAGEAdABlAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMkel7dBSB0I+eC3TD/tim9OyQ2N0gu8hJgOmdhWdo9ec9ocSJn0bZVtdJvZIoyz+frPuLW0/2DMrmdIK4he+uSnVnasFHP/E4KH0IlAGKNlUux0b6urndBdKUimUq3AyDmIXEeE/sMBC3dZ/qmVjzXL6vWK35Oi4XTu7105m/rPAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAc69RjHRnndN3n19TAwTficcCqFEbSta/dx4NaIY7ucilsa1RcPA4oYVUKJfnJiCDQKtpqT32nrdgC/G/iSETb0kGqP883hR3M0npiZYFjSBeDyD9G8Lqp+jcBDv7rISxA262al3wEPOzC2RB1ZUjnQ7sxspxkH7ua27doWSJbio=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

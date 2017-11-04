@@ -1,0 +1,12 @@
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\WarSimulation.exe.config
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\WarSimulation.exe.manifest
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\WarSimulation.application
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\WarSimulation.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\WarSimulation.pdb
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Debug\WarSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Debug\WarSimulation.exe.manifest
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Debug\WarSimulation.application
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Debug\WarSimulation.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\obj\x86\Debug\WarSimulation.pdb
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\Configure.exe
+C:\Users\Hatef\documents\visual studio 2010\Projects\WarSimulation\WarSimulation\bin\Debug\Configure.pdb
